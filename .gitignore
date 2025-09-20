@@ -35,3 +35,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+# Exclude my folders
+Activity5/
+MidAct1/
